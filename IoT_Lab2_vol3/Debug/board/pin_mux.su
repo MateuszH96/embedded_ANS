@@ -1,0 +1,13 @@
+C:\Users\mateu\OneDrive\Pulpit\MCU\IoT_Lab2_vol3\device/LPC55S69_cm33_core0.h:31217:24:Chip_GetVersion	16	static
+C:\Users\mateu\OneDrive\Pulpit\MCU\IoT_Lab2_vol3\drivers/fsl_clock.h:983:20:CLOCK_EnableClock	24	static
+C:\Users\mateu\OneDrive\Pulpit\MCU\IoT_Lab2_vol3\drivers/fsl_iocon.h:182:22:IOCON_PinMuxSet	24	static
+../board/pin_mux.c:34:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:62:6:BOARD_InitDEBUG_UARTPins	16	static
+../board/pin_mux.c:121:6:BOARD_InitSWD_DEBUGPins	32	static
+../board/pin_mux.c:254:6:BOARD_InitUSBPins	32	static
+../board/pin_mux.c:358:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:457:6:BOARD_InitBUTTONsPins	40	static
+../board/pin_mux.c:594:6:BOARD_InitI2SPins	48	static
+../board/pin_mux.c:760:6:BOARD_InitACCELPins	24	static
+../board/pin_mux.c:842:6:MWM_InitPins	8	static
+../board/pin_mux.c:900:6:BOARD_InitPMODPins	16	static

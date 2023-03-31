@@ -1,0 +1,7 @@
+C:\Users\mateu\OneDrive\Pulpit\MCU\Iot_lab06\CMSIS/core_cm33.h:2378:22:__NVIC_EnableIRQ	16	static
+C:\Users\mateu\OneDrive\Pulpit\MCU\Iot_lab06\CMSIS/core_cm33.h:2575:22:__NVIC_SetPriority	16	static
+C:\Users\mateu\OneDrive\Pulpit\MCU\Iot_lab06\drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+C:\Users\mateu\OneDrive\Pulpit\MCU\Iot_lab06\drivers/fsl_usart.h:541:20:USART_EnableInterrupts	16	static
+../board/peripherals.c:149:13:FLEXCOMM2_init	8	static
+../board/peripherals.c:161:6:BOARD_InitPeripherals_cm33_core0	8	static
+../board/peripherals.c:170:6:BOARD_InitBootPeripherals	8	static

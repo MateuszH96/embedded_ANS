@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Pulpit\MCU\Auto-Lab01\CMSIS/core_cm33.h:2378:22:__NVIC_EnableIRQ	16	static
+C:\Users\mateu\OneDrive\Pulpit\MCU\Auto-Lab01\CMSIS/core_cm33.h:2575:22:__NVIC_SetPriority	16	static
+C:\Users\mateu\OneDrive\Pulpit\MCU\Auto-Lab01\drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+C:\Users\mateu\OneDrive\Pulpit\MCU\Auto-Lab01\drivers/fsl_ctimer.h:497:20:CTIMER_StartTimer	16	static
+C:\Users\mateu\OneDrive\Pulpit\MCU\Auto-Lab01\drivers/fsl_lpadc.h:698:20:LPADC_EnableInterrupts	16	static
+C:\Users\mateu\OneDrive\Pulpit\MCU\Auto-Lab01\drivers/fsl_power.h:385:20:POWER_DisablePD	16	static
+../board/peripherals.c:116:13:FLEXCOMM1_init	8	static
+../board/peripherals.c:175:13:CTIMER0_init	8	static
+../board/peripherals.c:294:13:ADC0_init	8	static
+../board/peripherals.c:316:6:BOARD_InitPeripherals_cm33_core0	8	static
+../board/peripherals.c:327:6:BOARD_InitBootPeripherals	8	static
